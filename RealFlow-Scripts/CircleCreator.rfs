@@ -1,0 +1,18 @@
+import math
+
+emittersPerCircle = 12
+angleStep = 360/emittersPerCircle
+for j in range (5):
+	radius = 4 + j*2
+	group = scene.addGroup()
+	group.setName("Anillo" + str(j))
+
+	for i in range(emittersPerCircle):
+		emitter = scene.add_DY_Emitter("Circle")
+		emitter.setName(group.getName() + "_" + str(i))
+		xPos = radius * math.cos(math.radians(angleStep*i))
+		yPos = radius * math.sin(math.radians(angleStep*i))
+		emitter.setParameter("Position", Vector.new(xPos, 0, yPos))
+		emitter.setParameter("Rotation", Vector.new(180, 0, 0))
+		emitter.setParameter("Speed", 0.0)
+		group.add(emitter.getName())

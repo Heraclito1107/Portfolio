@@ -1,0 +1,55 @@
+Frecuencia 2: 998
+		Proporcion real: 0.0277222
+		Proporcion ideal: 0.0277778
+Proporcion dentro de parametros razonables
+
+Frecuencia 3: 2016
+		Proporcion real: 0.056
+		Proporcion ideal: 0.0555556
+Proporcion dentro de parametros razonables
+
+Frecuencia 4: 2967
+		Proporcion real: 0.0824167
+		Proporcion ideal: 0.0833333
+Proporcion dentro de parametros razonables
+
+Frecuencia 5: 3944
+		Proporcion real: 0.109556
+		Proporcion ideal: 0.111111
+Proporcion dentro de parametros razonables
+
+Frecuencia 6: 4919
+		Proporcion real: 0.136639
+		Proporcion ideal: 0.138889
+Proporcion dentro de parametros razonables
+
+Frecuencia 7: 6102
+		Proporcion real: 0.1695
+		Proporcion ideal: 0.166667
+Proporcion dentro de parametros razonables
+
+Frecuencia 8: 5081
+		Proporcion real: 0.141139
+		Proporcion ideal: 0.138889
+Proporcion dentro de parametros razonables
+
+Frecuencia 9: 3950
+		Proporcion real: 0.109722
+		Proporcion ideal: 0.111111
+Proporcion dentro de parametros razonables
+
+Frecuencia 10: 3077
+		Proporcion real: 0.0854722
+		Proporcion ideal: 0.0833333
+Proporcion dentro de parametros razonables
+
+Frecuencia 11: 1987
+		Proporcion real: 0.0551944
+		Proporcion ideal: 0.0555556
+Proporcion dentro de parametros razonables
+
+Frecuencia 12: 959
+		Proporcion real: 0.0266389
+		Proporcion ideal: 0.0277778
+Proporcion dentro de parametros razonables
+

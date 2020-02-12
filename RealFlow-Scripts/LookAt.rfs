@@ -1,0 +1,8 @@
+reference = scene.getObject("ReferenciaCentral")
+groupName = "AnilloPrincipal"
+elements = 24
+
+for i in range(elements):
+	node = scene.get_DY_Emitter(groupName + "_" + str(i))
+	resultant = reference.getParameter("Position") - node.getParameter("Position")
+	node.setParameter("Rotation", Vector.new(0.0, 1.0, 0.0).getEulerAngles(resultant))

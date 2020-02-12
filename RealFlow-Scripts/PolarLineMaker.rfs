@@ -1,0 +1,19 @@
+import math
+
+emittersPerCircle = 12
+emittersPerLine = 10
+for j in range(0,12,2):
+
+	angle = 360*j/emittersPerCircle
+	group = scene.addGroup()
+	group.setName("Linea" + str(j))
+
+	for i in range(emittersPerLine):
+		emitter = scene.add_DY_Emitter("Circle")
+		emitter.setName(group.getName() + "_" + str(i))
+		xPos = (14+(2*i)) * math.cos(math.radians(angle))
+		yPos = (14+(2*i)) * math.sin(math.radians(angle))
+		emitter.setParameter("Position", Vector.new(xPos, 0, yPos))
+		emitter.setParameter("Rotation", Vector.new(180, 0, 0))
+		emitter.setParameter("Speed", 0.0)
+		group.add(emitter.getName())

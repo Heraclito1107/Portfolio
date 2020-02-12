@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="CartesianToBaycentric_Heraclito.jnlp">
+  <information>
+    <title>CartesianToBaycentric_Heraclito</title>
+    <vendor>CIAC</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="CartesianToBaycentric_Heraclito.jar" size="3488" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="CartesianToBaycentric_Heraclito" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="edu.UP.MCG.coordinates.CartesianToBaycentric_Heraclito"  name="CartesianToBaycentric_Heraclito" />
+  <update check="always"/>
+</jnlp>

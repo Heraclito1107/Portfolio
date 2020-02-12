@@ -1,0 +1,9 @@
+frame = 1/30.00
+emitters = scene.get_DY_Emitters()
+for emitter in emitters:
+	curve = emitter.getParameterCurve("Speed")
+	key2 = Key.new()
+	key2.time = 457*frame
+	key2.value = 0.0
+	key2.type = KEY_TYPE_STEP
+	curve.addKey(key2)

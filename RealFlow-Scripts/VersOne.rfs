@@ -1,0 +1,26 @@
+import math
+
+emitters1 =[]
+
+for i in range(10):
+	emitter = scene.add_PB_Emitter("Circle")
+	emitter.setParameter("Position", Vector.new(15-i, 0, 0))
+	emitter.setParameter("Rotation", Vector.new(180, 0, 0))
+	emitter.setParameter("Speed", 5.0)
+	emitters1.append(emitter)
+
+for i in range(10):
+	emitter = scene.add_PB_Emitter("Circle")
+	emitter.setParameter("Position", Vector.new(-15+i, 0, 0))
+	emitter.setParameter("Rotation", Vector.new(180, 0, 0))
+	emitter.setParameter("Speed", 5.0)
+	emitters1.append(emitter)
+
+for i in range(11):
+	emitter = scene.add_PB_Emitter("Circle")
+	xPos = 5 * math.cos(math.radians(18*i))
+	yPos = 5 * math.sin(math.radians(18*i))
+	emitter.setParameter("Position", Vector.new(xPos, 0, yPos))
+	emitter.setParameter("Rotation", Vector.new(180, 0, 0))
+	emitter.setParameter("Speed", 5.0)
+	emitters1.append(emitter)

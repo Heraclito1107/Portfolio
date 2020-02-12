@@ -1,0 +1,31 @@
+frame = 1/30.00
+
+key1 = Key.new()
+key2 = Key.new()
+key3 = Key.new()
+key4 = Key.new()
+
+key1.time = 262 * frame
+key2.time = 263 * frame
+key3.time = 351 * frame
+key4.time = 352 * frame
+
+key1.value = 0.0
+key2.value = 60.0
+key3.value = 60.0
+key4.value = 0.0
+
+key1.type = KEY_TYPE_LINEAR
+key2.type = KEY_TYPE_LINEAR
+key3.type = KEY_TYPE_LINEAR
+key4.type = KEY_TYPE_LINEAR
+
+for i in range(0, 12, 2):
+	for j in range(10):
+		emitter = scene.get_DY_Emitter("Linea" + str(i) + "_" + str(j))
+		curve = emitter.getParameterCurve("Rotation.X")
+		curve.addKey(key1)
+		curve.addKey(key2)
+		curve.addKey(key3)
+		curve.addKey(key4)
+	
