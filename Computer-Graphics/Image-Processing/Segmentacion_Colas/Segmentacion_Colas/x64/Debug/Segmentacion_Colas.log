@@ -1,0 +1,87 @@
+﻿  Source.cpp
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(88): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(93): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(98): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(103): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(110): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(115): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(120): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(125): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(128): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(131): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(132): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(133): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(134): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(135): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(136): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(137): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+f:\documentsf\up\1188_ad-2018\procesamiento de imágenes\segmentacion_colas\segmentacion_colas\source.cpp(138): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+  Segmentacion_Colas.vcxproj -> F:\DocumentsF\UP\1188_AD-2018\Procesamiento de imágenes\Segmentacion_Colas\x64\Debug\Segmentacion_Colas.exe
