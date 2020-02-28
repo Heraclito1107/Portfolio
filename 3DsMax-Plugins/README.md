@@ -1,1 +1,1 @@
-Maxscript scripts to be executed on 3DsMax
+# Maxscript scripts to be executed on 3DsMax
